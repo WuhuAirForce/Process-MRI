@@ -1,3 +1,3 @@
 # Process-MRI
-## Python==3.1014
+## Python==3.10.14
 pip install -r requirements.txt
